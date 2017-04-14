@@ -1,4 +1,4 @@
-> Need to add header for Codespace
+![Starter Kit Banner](description.png)
 
 # Starter Kit for Data Analysis - Codespace 2017
 
